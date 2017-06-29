@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.box1{background: #a05bb2}
+.box2{background: #2f495b}
+.box3{background: #f4c544}
+.box4{background: #ea7e37}
+.box5{background: #ef4a43}
+.box6{background: #bec4c8}
+.box7{background: #00cd7c}
+.box8{background: #4285f4}
+.box9{background: #00c0a1}
+.box10{background: #00a489}
+
+.container{
+
+}
