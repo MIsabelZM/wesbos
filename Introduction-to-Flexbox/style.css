@@ -24,5 +24,6 @@
 .box10{background: #00a489}
 
 .container{
-
+  display: flex;
+  border: 10px solid #999;
 }
