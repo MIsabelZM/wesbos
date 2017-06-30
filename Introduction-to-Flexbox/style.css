@@ -21,6 +21,10 @@
   width: calc(33.333% - 20px);
 }
 
+.box:nth-child(odd) {
+  order: 1;
+}
+
 .box1 { background: #a05bb2 }
 .box2 { background: #2f495b }
 .box3 { background: #f4c544 }
